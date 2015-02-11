@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1423574606 source:/home/todos/alunos/ct/a1013343/hashmapTomasAllan/main.cpp
+	"include/HashMap.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1423574448 /home/todos/alunos/ct/a1013343/hashmapTomasAllan/include/HashMap.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1423575910 source:/home/todos/alunos/ct/a1013343/hashmapTomasAllan/src/HashMap.cpp
+	"HashMap.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
